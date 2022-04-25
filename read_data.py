@@ -257,7 +257,7 @@ def genre_ml1m_index(df):
 
 
 def preprocessing(args):
-    data_dir = os.path.join('/home/haolun/projects/InterFair/data', args.data)
+    data_dir = os.path.join('./data', args.data)
 
     if args.data == 'ml-1m':
         df, item_mapping = MovieLens1M(data_dir).load()

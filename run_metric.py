@@ -16,8 +16,8 @@ import json
 
 
 def parser_args():
-    parser = ArgumentParser(description="FairMOOP")
-    parser.add_argument('--data', type=str, default='ml-1m', choices=['ml-1m'],
+    parser = ArgumentParser(description="JMEF")
+    parser.add_argument('--data', type=str, default='ml-100k', choices=['ml-1m', 'ml-100k'],
                         help="File path for data")
     parser.add_argument('--gpu_id', type=int, default=0)
     # Seed
