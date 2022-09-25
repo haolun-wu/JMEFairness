@@ -6,7 +6,7 @@ This repository contains the implementation for paper: [Joint Multisided Exposur
 
 ## Code Overview
 # Folder
-The [`data`](./data) contains the datasets we used from [here](https://github.com/dvalcarce/evalMetrics](https://grouplens.org/datasets/movielens/).
+The [`data`](./data) contains the datasets we used from [here](https://grouplens.org/datasets/movielens/).
 The [`saved_model`](./saved_model) contains the pre-trained model from [here](https://github.com/dvalcarce/evalMetrics).
 
 # File
