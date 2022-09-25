@@ -19,3 +19,6 @@ If you find this code or idea useful, please cite our work:
   year={2022}
 }
 ```
+
+## Contact
+If you have any questions, feel free to contact us through email (haolun.wu@mail.mcgill.ca) or Github issues. Enjoy!
