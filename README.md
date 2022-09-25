@@ -11,7 +11,11 @@ The **saved_model** contains the pre-trained model from [here](https://github.co
 ## Citation
 If you find this code or idea useful, please cite our work:
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+@inproceedings{wu2022joint,
+  title={Joint Multisided Exposure Fairness for Recommendation},
+  author={Wu, Haolun and Mitra, Bhaskar and Ma, Chen and Diaz, Fernando and Liu, Xue},
+  booktitle={SIGIR},
+  publisher = {{ACM}},
+  year={2022}
 }
 ```
